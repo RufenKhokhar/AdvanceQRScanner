@@ -179,8 +179,20 @@ class MainActivity : AppCompatActivity() {
         scannerView.setFrameAspectRatioHeight()
         scannerView.setFrameAspectRatioWidth()
         scannerView.setFrameSize()
-       
  
- ## This Libray inspired by the [yuriy-budiyev/code-scanner](https://github.com/yuriy-budiyev/code-scanner)
+ and, if you want use these properties, you need to disble the  ``` ScannerView.setFrameFixed(false) ```
+ 
+        scannerView.setFrameScalarImage()
+        scannerView.setFrameScalarImageColor()
+ 
+ ## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://github.com/RufenKhokhar/AdvanceQRScanner/blob/master/LICENSE)
+ 
+This Libray inspired by the [yuriy-budiyev/code-scanner](https://github.com/yuriy-budiyev/code-scanner) and use some core classes of this library
 
 
