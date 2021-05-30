@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <declare-styleable name="ScannerView">
+        <attr name="maskColor" format="color" />
+        <attr name="frameColor" format="color" />
+        <attr name="laserColor" format="color" />
+        <attr name="frameScalarImageColor" format="color" android:targetApi="21" />
+        <attr name="insideFrameColor" format="color" />
+        <attr name="frameThickness" format="dimension" />
+        <attr name="frameCornersSize" format="dimension" />
+        <attr name="frameCornersRadius" format="dimension" />
+        <attr name="frameAspectRatioWidth" format="float" />
+        <attr name="frameFixedSize" format="boolean" />
+        <attr name="insideFrameColorEnable" format="boolean" />
+        <attr name="enableLaser" format="boolean" />
+        <attr name="frameAspectRatioHeight" format="float" />
+        <attr name="frameSize" format="float" />
+        <attr name="frameScalarImage" format="reference" />
+    </declare-styleable>
+</resources>

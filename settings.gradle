@@ -1,0 +1,3 @@
+include ':advanceqrscanner'
+include ':app'
+rootProject.name = "AdvanceQRScanner"
