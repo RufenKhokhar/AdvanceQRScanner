@@ -17,7 +17,7 @@ dependencies {
 	       implementation 'com.github.RufenKhokhar:AdvanceQRScanner:1.0'
 	}
 ```
-## Useage
+## Usage
   xml code
 ```xml
 <com.rkgroup.advanceqrscanner.ScannerView
