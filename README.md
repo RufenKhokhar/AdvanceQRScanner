@@ -1,5 +1,5 @@
 # AdvanceQRScanner
- Android library that helps the developers to implements the QR Scanner with highly customization.
+ Android library that helps the developers to implements the QR Scanner with high customization.
 
 ## Installation
   Add it in your root build.gradle at the end of repositories:
